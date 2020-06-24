@@ -15,6 +15,12 @@
 
 -`index.js` In this file I have added JavaScript code. Beacuse of JS code we are able to play our Drums. 
             In this I have added event Listeners such that whenever you press the specified keyword you'll get a beat accordingly.
+            
+ ## Folders Included
+ 
+ -`Images` In this folder I have added different images for Drums.
+ 
+ -`Sounds` In this folder, there are sounds related to the particular Drums.
 
 # Working : 
 
