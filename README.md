@@ -22,7 +22,7 @@
 - And when you click on any of these buttons you will get the corresponding sound of the Drum.
 - And in addition you can also use the keys on the keyboard.
 
-Link provided below to land directly on my `Drum-Kit` Project
+#### Link provided below to land directly on my `Drum-Kit` Project
 
  `Click here` : https://vermadeepali.github.io/Drum-Kit/
 
